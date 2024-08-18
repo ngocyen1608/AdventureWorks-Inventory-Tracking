@@ -7,7 +7,7 @@
 - Provide detailed information and an overview of the company's inventory situation to the senior manager.
 - Help Warehouse Managers and warehouse staff to closely monitor and control inventory levels, ensuring that goods are stored at regulated levels. From there, develop appropriate strategies to better manage and operate storage activities.
 ### 3. Data modeling
-![] (https://github.com/user-attachments/assets/4f5a4b0b-0805-40ae-bf6a-d29973bb1d3b)
+![](https://github.com/user-attachments/assets/4f5a4b0b-0805-40ae-bf6a-d29973bb1d3b)
 ## II. Design Thinking
 **Here are the five steps of design thinking:**
 ### Step1. Empathize
