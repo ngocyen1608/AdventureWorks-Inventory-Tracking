@@ -6,7 +6,19 @@
 ### 2. Dashboard Purpose
 - Provide detailed information and an overview of the company's inventory situation to the senior manager.
 - Help Warehouse Managers and warehouse staff to closely monitor and control inventory levels, ensuring that goods are stored at regulated levels. From there, develop appropriate strategies to better manage and operate storage activities.
-### 3. Data modeling
+### 3. Dataset Access
+The AdventureWorks dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
+1. Open Power BI Desktop.
+2. Click "Get Data" in the Home tab.
+3. Search for and select "Google BigQuery" in the data sources.
+4. Click "Connect".
+5. Sign in to your Google account if prompted.
+6. In the Navigator, select your BigQuery project containing AdventureWorks2019.
+7. Expand the AdventureWorks2019 dataset.
+8. Select the tables you need (e.g., Sales, Customer, Product).
+9. Click "Load" to import data directly, or "Transform Data" to modify before importing.
+10. If you chose "Transform Data", make necessary changes in Power Query Editor, then click "Close & Apply".
+### 4. Data modeling
 ![](https://github.com/user-attachments/assets/4f5a4b0b-0805-40ae-bf6a-d29973bb1d3b)
 ## II. Design Thinking
 **Here are the five steps of design thinking:**
